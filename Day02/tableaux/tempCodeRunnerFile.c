@@ -1,0 +1,1 @@
+printf("la valeur maximal est  = %d\n", max);
