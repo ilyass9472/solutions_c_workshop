@@ -136,10 +136,15 @@ int terminal() {
         printf("| Systeme de Gestion de Stock dans une Librairie  |\n");
         printf("|_________________________________________________|\n");
         printf("| 1 | Ajouter un livre au stock.                  |\n");
+        printf("|_________________________________________________|\n");
         printf("| 2 | Afficher tous les livres disponibles.       |\n");
+        printf("|_________________________________________________|\n");
         printf("| 3 | Rechercher un livre par son titre.          |\n");
+        printf("|_________________________________________________|\n");
         printf("| 4 | Mettre a jour la quantite d'un livre.       |\n");
+        printf("|_________________________________________________|\n");
         printf("| 5 | Supprimer un livre du stock.                |\n");
+        printf("|_________________________________________________|\n");
         printf("| 6 | Afficher le nombre total de livres en stock.|\n");
         printf("|___|_____________________________________________|\n");
         printf("\n>>> ");

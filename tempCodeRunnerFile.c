@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 #define MAXLIVRES 100
-#define MAXELEMENTS 4
+#define MAXELEMENTS 100
 #define MAXCHAR 100
 
 char Livres[MAXLIVRES][MAXELEMENTS][MAXCHAR]; 
